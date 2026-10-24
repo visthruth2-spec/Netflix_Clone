@@ -1,0 +1,6 @@
+{
+  "name": "Netflix Clone - MERN Stack",
+  "description": "Full-stack MERN Netflix-inspired streaming web app with MongoDB Mongoose, Express, React, authentication, profile management, search, and watchlist.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
